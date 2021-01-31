@@ -49,7 +49,7 @@ class _HorizontalExample extends State<HorizontalExample> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Horizontal'),
+        title: Text('Drakkr Storymap'),
       ),
       body: DragAndDropLists(
         children: List.generate(_lists.length, (index) => _buildList(index)),
