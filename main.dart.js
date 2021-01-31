@@ -29369,7 +29369,7 @@ for(r=t.i,q=0;q<9;++q){p=C.f.i(q)
 o=H.d(new Array(12),r)
 for(n=0;n<12;++n)o[n]=""+q+"."+n
 s[q]=new F.xe(p,o)}this.d=s},
-K:function(a,b){var s,r=this,q=null,p=L.mp("Horizontal",q),o=r.d.length,n=J.xj(o,t.eR)
+K:function(a,b){var s,r=this,q=null,p=L.mp("Drakkr Storymap",q),o=r.d.length,n=J.xj(o,t.eR)
 for(s=0;s<o;++s)n[s]=r.Ik(s)
 return new M.qs(new E.nF(p,new P.Q(1/0,56),q),N.a89(C.l,n,new S.cS(C.ay.h(0,200),q,q,K.a7r(new P.bj(7,7)),H.d([new O.eZ(3,C.tN,new P.n(2,3),6)],t.ec),q,C.Y),150,new V.aS(8,8,8,8),150,r.gMo(),r.gMq()),q)},
 Ik:function(a){var s,r,q,p,o=null,n=this.d[a],m=K.a0J(C.N,new P.bj(7,7)),l=n.a,k="Header "+l,j=this.c
